@@ -1,5 +1,7 @@
 Playground: https://plnkr.co/edit/ifNiQd5wNg6d5GQg?preview
 
+Discussion: https://github.com/Birch-san/box2d-wasm/discussions/63
+
 ![debug-drawer-box2dwasm-js-350x350](https://github.com/8Observer8/debug-drawer-box2dwasm-webgl-js/assets/3908473/a2fb8047-80b8-4562-9b26-3efc70519deb)
 
 Instructions for building and running the project in debug and release:
